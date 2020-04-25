@@ -1,0 +1,56 @@
+﻿  Scene.cpp
+d:\documents - data drive\visual studio 2017\projects\towerofhanoi\towerofhanoi\scene.cpp(39): warning C4018: '<': signed/unsigned mismatch
+d:\documents - data drive\visual studio 2017\projects\towerofhanoi\towerofhanoi\scene.cpp(143): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\documents - data drive\visual studio 2017\projects\towerofhanoi\towerofhanoi\scene.cpp(144): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\documents - data drive\visual studio 2017\projects\towerofhanoi\towerofhanoi\scene.cpp(148): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\documents - data drive\visual studio 2017\projects\towerofhanoi\towerofhanoi\scene.cpp(161): warning C4018: '<': signed/unsigned mismatch
+d:\documents - data drive\visual studio 2017\projects\towerofhanoi\towerofhanoi\scene.cpp(165): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\documents - data drive\visual studio 2017\projects\towerofhanoi\towerofhanoi\scene.cpp(171): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\documents - data drive\visual studio 2017\projects\towerofhanoi\towerofhanoi\scene.cpp(175): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\documents - data drive\visual studio 2017\projects\towerofhanoi\towerofhanoi\scene.cpp(186): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\documents - data drive\visual studio 2017\projects\towerofhanoi\towerofhanoi\scene.cpp(200): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\documents - data drive\visual studio 2017\projects\towerofhanoi\towerofhanoi\scene.cpp(201): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Tower.cpp
+  TowerOfHanoi.cpp
+d:\documents - data drive\visual studio 2017\projects\towerofhanoi\towerofhanoi\towerofhanoi.cpp(82): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\documents - data drive\visual studio 2017\projects\towerofhanoi\towerofhanoi\towerofhanoi.cpp(177): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  All 407 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TowerOfHanoi.vcxproj -> D:\Documents - Data Drive\Visual Studio 2017\Projects\TowerOfHanoi\Release\TowerOfHanoi.exe
